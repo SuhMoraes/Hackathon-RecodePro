@@ -7,17 +7,22 @@
 > Formando programadores Full Stack. 
  
 Foram mais de **10.800 inscritos**  na primeira fase.
- Na segunda fase, participaram aproximadamente **700 jovens** na realização do **Hackathon** que teve a duração **em apenas 2 dias**. Vários grupos foram formados. Todos com o foco na criação do aplicativo, projetado atender a um dos Objetivos de Desenvolvimento Sustentável (ODS) da ONU proposto pela **Recode Pro.**
+ Na segunda fase, participaram aproximadamente **700 jovens** na realização do **Hackathon** que teve a duração **de apenas 2 dias**. Vários grupos foram formados. Todos com o foco na criação do aplicativo, projetado a atender a um dos Objetivos de Desenvolvimento Sustentável (ODS) da ONU proposto pela **Recode Pro.**
  
 O grupo, o qual fiz parte, ficou responsável por desenvolver a _**ODS 3**_ - __Saúde e Bem - Estar: assegurar uma vida saudável e promover o bem-estar para todas e todos, em todas as idades.__
 
 Nesse projeto foi criado um protótipo voltado para as pessoas que estão passando pela transição sexual, o App Saúde Trans.
 
- Devido a uma pesquisa feita por nós pela plataforma Google Forms, foi constatado que muitos se auto medicam, buscam fazer até cirurgias de maneira clandestina, pois o acesso é dificultado pelo despreparado de profissionais da área da saúde. 
- A ideia é facilitar o acesso a informação, a assistência jurídica, informar centros de referências e principalmente prontificar o atendimento médico, psicológico.
+ Devido a pesquisa feita por nós pela plataforma Google Forms, foi constatado que muitos transexuais negligenciam a sua própria saúde para poder transiocionar. Visto que o despreparo, preconceito por parte dos profissionais da saúde, agrava na disforia de gênero. 
+ 
+ **Disforia de gênero _"caracteriza-se por identificação forte e persistente com o gênero oposto associada a ansiedade, depressão, irritabilidade e muitas vezes a um desejo de viver como um gênero diferente do sexo do nascimento.**_ 
+ 
+ Em virtude da disforia, muitos acabam se auto medicando, procurando fazer cirurgias de forma clandestina ou até mesmo comentendo o suicídio.
+ 
+ E o **aplicativo** foi criado para trazer informações na palma da mão e facilitar  a assistência jurídica, informar centros de referências e principalmente prontificar o atendimento médico, psicológico.
 
 
-**Pitch** [:film_strip:](https://www.youtube.com/watch?v=VwtR4tTSrE0)Pitch
+**Pitch** [:film_strip:](https://www.youtube.com/watch?v=VwtR4tTSrE0)
 
 **Protótipo do aplicativo** [:iphone:](https://www.youtube.com/watch?v=ksRfmoDFLjE)
 
