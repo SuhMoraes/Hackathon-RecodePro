@@ -7,16 +7,18 @@
 > Formando programadores Full Stack. 
  
 Foram mais de **10.800 inscritos**  na primeira fase.
- Na segunda fase, participaram aproximadamente 700 jovens na realização do **Hackathon em apenas 2 dias**. Vários grupos foram formados. Todos com o foco na criação do aplicativo projetado atender a um dos Objetivos de Desenvolvimento Sustentável (ODS) da ONU proposto pela **Recode Pro.**
+ Na segunda fase, participaram aproximadamente **700 jovens** na realização do **Hackathon** que teve a duração **em apenas 2 dias**. Vários grupos foram formados. Todos com o foco na criação do aplicativo, projetado atender a um dos Objetivos de Desenvolvimento Sustentável (ODS) da ONU proposto pela **Recode Pro.**
  
 O grupo, o qual fiz parte, ficou responsável por desenvolver a _**ODS 3**_ - __Saúde e Bem - Estar: assegurar uma vida saudável e promover o bem-estar para todas e todos, em todas as idades.__
 
 Nesse projeto foi criado um protótipo voltado para as pessoas que estão passando pela transição sexual, o App Saúde Trans.
 
-A ideia é facilitar o acesso a informação, atendimento médico, psicológico, assistência jurídica, centros de referências a pessoas que estão ou já passaram pela transição.
+ Devido a uma pesquisa feita por nós pela plataforma Google Forms, foi constatado que muitos se auto medicam, buscam fazer até cirurgias de maneira clandestina, pois o acesso é dificultado pelo despreparado de profissionais da área da saúde. 
+ A ideia é facilitar o acesso a informação, a assistência jurídica, informar centros de referências e principalmente prontificar o atendimento médico, psicológico.
 
-Veja abaixo o Vídeo do Pitch e a funcionalidade do aplicativo Saúde Trans.
 
-[Pitch](https://www.youtube.com/watch?v=VwtR4tTSrE0)
+**Pitch** [:film_strip:](https://www.youtube.com/watch?v=VwtR4tTSrE0)Pitch
 
-[Protótipo do App](https://www.youtube.com/watch?v=ksRfmoDFLjE)
+**Protótipo do aplicativo** [:iphone:](https://www.youtube.com/watch?v=ksRfmoDFLjE)
+
+![Saúde Trans](https://github.com/SuhMoraes/Hackathon-RecodePro/blob/master/Sa%C3%BAde%20Trans.png)
