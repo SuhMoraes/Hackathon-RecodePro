@@ -14,3 +14,9 @@ O grupo, o qual fiz parte, ficou responsável por desenvolver a _**ODS 3**_ - __
 Nesse projeto foi criado um protótipo voltado para as pessoas que estão passando pela transição sexual, o App Saúde Trans.
 
 A ideia é facilitar o acesso a informação, atendimento médico, psicológico, assistência jurídica, centros de referências a pessoas que estão ou já passaram pela transição.
+
+Veja abaixo o Vídeo do Pitch e a funcionalidade do aplicativo Saúde Trans.
+
+[Pitch](https://www.youtube.com/watch?v=VwtR4tTSrE0)
+
+[Protótipo do App](https://www.youtube.com/watch?v=ksRfmoDFLjE)
