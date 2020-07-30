@@ -1,13 +1,13 @@
 # 🚀 Hackathon-RecodePro 🚀
  ## 👨🏻‍💻 Projeto voltado para Saúde e bem - estar.
  
- [Recode Pro](https://www.recodepro.org.br/) :computer_mouse:	
+ [RECODE PRO](https://www.recodepro.org.br/) :computer_mouse:	
 > É um programa que visa a formação e a empregabilidade
 > de pessoas em situação de vunerabilidade social.
 > Formando programadores Full Stack. 
  
   Foram mais de **10 800 inscritos**  na primeira fase.
-   Na segunda fase, participaram cerca de **700 jovens** na realização do **Hackathon** que teve a duração **de apenas 2 dias**. Vários grupos foram formados. Todos com o foco na criação do aplicativo, projetado a atender um dos Objetivos de Desenvolvimento Sustentável (ODS) da ONU proposto pela **Recode Pro.**
+   Na segunda fase, participaram cerca de **700 jovens** na realização do **Hackathon** que teve a duração **de apenas 2 dias**. Vários grupos foram formados. Todos com o foco na criação do aplicativo, projetado a atender um dos Objetivos de Desenvolvimento Sustentável (ODS) da ONU proposto pela **RECODE PRO**
  
   O grupo, o qual fiz parte, ficou responsável por desenvolver a _**ODS 3**_** — Saúde e Bem — Estar**: assegurar uma vida saudável e promover o bem-estar para todas e todos, em todas as idades.__
 
