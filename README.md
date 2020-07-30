@@ -26,4 +26,6 @@
 
 **Protótipo do aplicativo** [:iphone:](https://www.youtube.com/watch?v=ksRfmoDFLjE)
 
+**Slide** [:memo:](https://github.com/SuhMoraes/Hackathon-RecodePro/blob/master/Sa%C3%BAde%20na%20Trans%20-%20Slide.pdf)
+
 ![Saúde Trans](https://github.com/SuhMoraes/Hackathon-RecodePro/blob/master/Sa%C3%BAde%20Trans.png)
