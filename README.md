@@ -11,7 +11,7 @@
  
   O grupo, o qual fiz parte, ficou responsável por desenvolver a _**ODS 3**_** — Saúde e Bem — Estar**: assegurar uma vida saudável e promover o bem-estar para todas e todos, em todas as idades.__
 
-  Nesse projeto, criamos um protótipo voltado para as pessoas que estão passando pela transição sexual, o App Saúde Trans.
+  Nesse projeto, criamos um protótipo no **App Inventor** voltado para as pessoas que estão passando pela transição sexual, o App Saúde Trans.
 
   Devido à pesquisa feita por nós pela plataforma Google Forms, foi constatado que muitos transexuais negligenciam a sua própria saúde para poder transiocionar. Visto que o despreparo, preconceito por parte dos profissionais da saúde, agrava na disforia de gênero. 
  
