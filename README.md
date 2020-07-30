@@ -2,7 +2,7 @@
  ## 👨🏻‍💻 Projeto voltado para Saúde e bem - estar.
  
  [Recode Pro](https://www.recodepro.org.br/) :computer_mouse:	
-> é um programa que visa a formação e a empregabilidade
+> É um programa que visa a formação e a empregabilidade
 > de pessoas em situação de vunerabilidade social.
 > Formando programadores Full Stack. 
  
