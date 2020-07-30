@@ -6,18 +6,18 @@
 > de pessoas em situação de vunerabilidade social.
 > Formando programadores Full Stack. 
  
-  Foram mais de **10.800 inscritos**  na primeira fase.
-   Na segunda fase, participaram aproximadamente **700 jovens** na realização do **Hackathon** que teve a duração **de apenas 2 dias**. Vários grupos foram formados. Todos com o foco na criação do aplicativo, projetado a atender um dos Objetivos de Desenvolvimento Sustentável (ODS) da ONU proposto pela **Recode Pro.**
+  Foram mais de **10 800 inscritos**  na primeira fase.
+   Na segunda fase, participaram cerca de **700 jovens** na realização do **Hackathon** que teve a duração **de apenas 2 dias**. Vários grupos foram formados. Todos com o foco na criação do aplicativo, projetado a atender um dos Objetivos de Desenvolvimento Sustentável (ODS) da ONU proposto pela **Recode Pro.**
  
-  O grupo, o qual fiz parte, ficou responsável por desenvolver a _**ODS 3**_ - __Saúde e Bem - Estar: assegurar uma vida saudável e promover o bem-estar para todas e todos, em todas as idades.__
+  O grupo, o qual fiz parte, ficou responsável por desenvolver a _**ODS 3**_** — Saúde e Bem — Estar**: assegurar uma vida saudável e promover o bem-estar para todas e todos, em todas as idades.__
 
   Nesse projeto, criamos um protótipo voltado para as pessoas que estão passando pela transição sexual, o App Saúde Trans.
 
-  Devido a pesquisa feita por nós pela plataforma Google Forms, foi constatado que muitos transexuais negligenciam a sua própria saúde para poder transiocionar. Visto que o despreparo, preconceito por parte dos profissionais da saúde, agrava na disforia de gênero. 
+  Devido à pesquisa feita por nós pela plataforma Google Forms, foi constatado que muitos transexuais negligenciam a sua própria saúde para poder transiocionar. Visto que o despreparo, preconceito por parte dos profissionais da saúde, agrava na disforia de gênero. 
  
  **Disforia de gênero** _caracteriza-se por identificação forte e persistente com o gênero oposto associada a ansiedade, depressão, irritabilidade e muitas vezes a um desejo de viver como um gênero diferente do sexo do nascimento._ 
  
-  Em virtude da disforia, muitos acabam se auto medicando, procurando fazer cirurgias de forma clandestina ou até mesmo comentendo o suicídio.
+  Em virtude da disforia, muitos acabam se auto medicando, procurando fazer cirurgias de forma clandestina ou até mesmo cometendo o suicídio.
  
   E o **aplicativo** foi criado para trazer informações na palma da mão e facilitar  a assistência jurídica, informar centros de referências e principalmente prontificar o atendimento médico e psicológico.
 
