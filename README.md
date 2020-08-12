@@ -7,8 +7,7 @@
 > de pessoas em situação de vunerabilidade social.
 > Formando programadores Full Stack. 
 
-![Recode10848](https://github.com/SuhMoraes/Hackathon-RecodePro/blob/master/Slide%20de%20divulga%C3%A7%C3%A3o.jpg)
- 
+
   Foram mais de **10 800 inscritos**  na primeira fase.
    Na segunda fase, participaram cerca de **700 jovens** na realização do **Hackathon** que teve a duração **de apenas 2 dias**. Vários grupos foram formados. Todos com o foco na criação do aplicativo, projetado a atender um dos Objetivos de Desenvolvimento Sustentável (ODS) da ONU proposto pela **RECODE PRO**
  
@@ -26,7 +25,10 @@
 
 ## Conheça o Saúde Trans
 
-**App**[:calling:](http://ai2.appinventor.mit.edu/?galleryId=4995650664398848&locale=pt_BR)
+**App** :calling:
+
+
+![:calling:](https://github.com/SuhMoraes/Hackathon-RecodePro/blob/master/Gif/Trans%20Sa%C3%BAde.gif)
 
 **Pitch** [:film_strip:](https://www.youtube.com/watch?v=VwtR4tTSrE0)
 
